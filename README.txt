@@ -7,4 +7,4 @@ Result: "one plus two equals three"
 
 To run pytest file:
 cd ~\Humanize_Calculator
-pytest test_testpy.py -v    s
+pytest test_testpy.py -v   
