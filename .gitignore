@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__
+venv
+env
+.pytest_cache
+.coverage
+.idea
