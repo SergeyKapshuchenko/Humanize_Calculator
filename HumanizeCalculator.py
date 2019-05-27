@@ -83,5 +83,5 @@ def hum_calc(string):
     result += converter(int(previous))
     return result
 
-print(hum_calc("1 + 2 = 3"))
+#print(hum_calc("1 + 2 = 3"))
 
