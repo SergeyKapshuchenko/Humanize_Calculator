@@ -1,5 +1,4 @@
 # Humanize Calculator
-#
 Converting math expression with integer number to words.
 #
 ABOUT
