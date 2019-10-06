@@ -15,16 +15,13 @@ Converting math expressions with integer numbers to words.
 
 #### To run function use hum_calc(string)
 Examples: 
+
 ```
-print(hum_calc("1 + 2 = 3")) \n
-Result: 
-"one plus two equals three"
+Input:   hum_calc("1 + 2 = 3")
+Result: "one plus two equals three"
 ```
 
 #### To run pytest file:
-```
-cd ~\Humanize_Calculator
-```
 ```
 pytest test_testpy.py -v
 ```
