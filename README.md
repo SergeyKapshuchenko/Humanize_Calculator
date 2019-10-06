@@ -1,5 +1,5 @@
 # Humanize Calculator
-Converting math expression with integer number to words.
+Converting math expressions with integer numbers to words.
 #
 ABOUT
 
