@@ -1,6 +1,6 @@
-Humanize Calculator
+#Humanize Calculator
 
----------------------------------------ABOUT----------------------------------
+#ABOUT
 
 Converting math expression with integer number to words.
 Конвертация математических выражений,которые могут включать в себе цифры, математические операции +,-,*,/,=, в слова.
